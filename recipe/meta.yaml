@@ -1,5 +1,5 @@
 {% set name = "stats_can" %}
-{% set version = "2.3.4" %}
+{% set version = "2.3.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 339e7f2d63b9de053059d564a9f1b44d722b8dc130a0ddfa64d6828ff6b97385
+  sha256: ab1f1fab765239533d32e51e1bfbb9d4673491dcea4ad0b7b2a0015a3fd56607
 
 build:
   noarch: python
