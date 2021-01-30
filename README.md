@@ -5,11 +5,13 @@ Home: https://github.com/ianepreston/stats_can
 
 Package license: GPL-3.0-or-later
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/stats_can-feedstock/blob/master/LICENSE.txt)
 
 Summary: Get Statistics Canada data into python (mostly pandas) 
 
+Development: https://github.com/ianepreston/stats_can
 
+Documentation: https://stats-can.readthedocs.io/
 
 Current build status
 ====================
