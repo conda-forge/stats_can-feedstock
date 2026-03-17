@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-stats_can-green.svg)](https://anaconda.org/conda-forge/stats_can) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/stats_can.svg)](https://anaconda.org/conda-forge/stats_can) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/stats_can.svg)](https://anaconda.org/conda-forge/stats_can) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/stats_can.svg)](https://anaconda.org/conda-forge/stats_can) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-stats__can-green.svg)](https://anaconda.org/conda-forge/stats_can) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/stats_can.svg)](https://anaconda.org/conda-forge/stats_can) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/stats_can.svg)](https://anaconda.org/conda-forge/stats_can) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/stats_can.svg)](https://anaconda.org/conda-forge/stats_can) |
 
 Installing stats_can
 ====================
