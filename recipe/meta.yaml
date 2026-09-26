@@ -1,13 +1,13 @@
 {% set name = "stats_can" %}
-{% set version = "3.2.3" %}
+{% set version = "3.3.0" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 7593aa775334915b44b8b7aebc3ecf8a735669462bc48b6f32710df7bb3dbb8e
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: d3304ebe2053418d9d58b0509def650f5ede133489318c76004b7604e9ab6f07
 
 build:
   noarch: python
